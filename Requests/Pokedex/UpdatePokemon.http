@@ -1,0 +1,20 @@
+@id = 5e85dbe6-5455-41b9-8739-1f71c0b087ff
+
+PUT http://localhost:5007/pokedex/{{id}}
+content-type: application/json
+
+{
+    "name": "Bulbasaur",
+    "pokedexId": 1,
+    "description": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
+    "type": [
+        "Grass",
+        "Poison"
+    ],
+    "Weaknesses": [
+        "Fire",
+        "Psychic",
+        "Flying",
+        "Ice"
+    ]
+}

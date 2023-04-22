@@ -1,0 +1,3 @@
+@id = 6D450238-F60A-46C4-B43D-06A05A0621BD
+
+GET http://localhost:5007/pokedex/{{id}}

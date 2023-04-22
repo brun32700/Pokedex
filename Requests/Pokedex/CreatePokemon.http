@@ -1,0 +1,36 @@
+POST http://localhost:5007/pokedex
+content-type: application/json
+
+{
+    "name": "Bulbasaur",
+    "pokedexId": 1,
+    "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+    "type": [
+        "Grass",
+        "Poison"
+    ],
+    "Weaknesses": [
+        "Fire",
+        "Psychic",
+        "Flying",
+        "Ice"
+    ]
+}
+
+###
+POST http://localhost:5007/pokedex
+content-type: application/json
+
+{
+    "name": "Charmander",
+    "pokedexId": 4,
+    "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+    "type": [
+        "Fire"
+    ],
+    "Weaknesses": [
+        "Water",
+        "Ground",
+        "Rock"
+    ]
+}

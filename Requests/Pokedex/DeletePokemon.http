@@ -1,0 +1,3 @@
+@id = 40FCB4D1-EB68-4A0D-8AB1-0D7997518158
+
+DELETE http://localhost:5007/pokedex/{{id}}
