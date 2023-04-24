@@ -1,4 +1,4 @@
-# This is a CRUD REST API for a Pokedex made using .NET 6
+# This is a CRUD REST API for a Pokedex made using .NET 6 and Entity Framework Core
 
 ## How To Run the REST API?
 
