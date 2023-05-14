@@ -396,7 +396,3 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-Pokedex.Tests/Pokedex.Tests.csproj
-Pokedex.Tests/UnitTest1.cs
-Pokedex.Tests/Usings.cs
-Pokedex.Tests/ControllersTests/PokedexControllerTests.cs
